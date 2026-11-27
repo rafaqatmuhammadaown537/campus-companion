@@ -1,6 +1,6 @@
 # Campus Companion
 
-A Flutter student app for Android. Built to demonstrate the skills Android developer roles ask for: REST API integration with JWT-style auth, offline storage with SQLite, push-notification channels, and state management with Provider.
+A Flutter student app for Android with login, a weekly timetable, attendance tracking, announcements, and offline storage.
 
 ## Features
 - Login with demo student credentials (mock REST backend with JWT-style tokens)
@@ -22,7 +22,7 @@ A Flutter student app for Android. Built to demonstrate the skills Android devel
 - flutter_local_notifications for reminders
 
 ## Download
-Install the APK from [Releases](../../releases). Android 6.0+ (the build targets arm64 and universal APKs).
+Install the APK from [Releases](../../releases). Android 6.0+.
 
 ## Run it yourself
 ```
